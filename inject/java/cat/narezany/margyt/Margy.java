@@ -48,6 +48,7 @@ public final class Margy {
             {"vn", "45201",  "Viettel",    "Vietnam"},
             {"th", "52001",  "AIS",        "Thailand"},
             {"ph", "51502",  "Globe",      "Philippines"},
+            {"eg", "60202",  "Vodafone",   "Egypt"},
     };
 
     public static final int ISO = 0, MCCMNC = 1, CARRIER = 2, LABEL = 3;
